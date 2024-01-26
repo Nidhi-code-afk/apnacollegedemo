@@ -1,3 +1,4 @@
 # apnacollegedemo
 this is my first repository.
-author:xyz
+author:xyz(apna college)
+
